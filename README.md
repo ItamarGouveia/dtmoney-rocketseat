@@ -35,7 +35,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 Dt money é o front end de um gerenciador financeiro com interface moderna e muito fácil de usar.
 
-Este é um projeto desenvolvido durante a **[Ignite](https://app.rocketseat.com.br/node/chapter-ii-1)**, disponível dno site da **[Rockeseat](https://app.rocketseat.com.br/dashboard)**
+Este é um projeto desenvolvido durante a **[Ignite](https://app.rocketseat.com.br/node/chapter-ii-1)**, disponível dno site da **[Rocketseat](https://app.rocketseat.com.br/dashboard)**
 
 
 ## 🔖 Layout
